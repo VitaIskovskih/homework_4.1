@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf33a7cc-367e-4038-8406-84f6d07f451e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Di3OowMuMvvyssoG9c9xJ9Robg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BonusServiceTest.amountIsZero">
+    <configuration name="BonusServiceTest.amountIsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework_4.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="amountIsZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusServiceTest.shouldBeCalculatedForRegisteredAndEqualToTheLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework_4.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldBeCalculatedForRegisteredAndEqualToTheLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusServiceTest.shouldBeCalculatedForTheRegisteredAndLowerLimitValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework_4.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldBeCalculatedForTheRegisteredAndLowerLimitValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusServiceTest.shouldBeCalculatedForUnregistered" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework_4.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldBeCalculatedForUnregistered" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BonusServiceTest.shouldCalculatedForRegisteredAndBorderlineExceedingTheLimit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework_4.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BonusServiceTest" />
+      <option name="METHOD_NAME" value="shouldCalculatedForRegisteredAndBorderlineExceedingTheLimit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BonusServiceTest.amountIsZero" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldBeCalculatedForUnregistered" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldBeCalculatedForTheRegisteredAndLowerLimitValue" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldBeCalculatedForRegisteredAndEqualToTheLimit" />
+        <item itemvalue="JUnit.BonusServiceTest.shouldCalculatedForRegisteredAndBorderlineExceedingTheLimit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf33a7cc-367e-4038-8406-84f6d07f451e" name="Changes" comment="" />
+      <created>1661168051278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661168051278</updated>
+    </task>
+    <servers />
+  </component>
+</project>
